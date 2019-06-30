@@ -1,0 +1,1 @@
+cmd_/home/gaby/Documents/OperatingSystem/project1/project1_1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/gaby/Documents/OperatingSystem/project1/project1_1.ko /home/gaby/Documents/OperatingSystem/project1/project1_1.o /home/gaby/Documents/OperatingSystem/project1/project1_1.mod.o ;  true

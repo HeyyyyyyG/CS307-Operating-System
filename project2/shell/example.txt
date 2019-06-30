@@ -1,0 +1,4 @@
+ls -l|less	q
+sort < in.txt
+ls > out.txt
+cat shell.c

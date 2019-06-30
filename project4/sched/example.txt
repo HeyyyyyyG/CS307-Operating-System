@@ -1,0 +1,6 @@
+./fcfs schedule.txt
+./sjf schedule.txt
+./rr rr-schedule.txt
+./priority pri-schedule.txt
+./priority_rr pri-schedule.txt
+
