@@ -1,0 +1,10 @@
+./ allocator 100000
+RQ P0 30000 F
+RQ P1 20000 W
+RQ P2 4000 B
+RL P1 
+RQ P4 10000 B
+STAT
+C
+STAT
+exit
